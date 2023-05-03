@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "BPAI01_03LikesApp"
+rootProject.name = "DC4_01LikesApp"
 include ':app'

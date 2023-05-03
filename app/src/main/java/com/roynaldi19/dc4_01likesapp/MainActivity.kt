@@ -1,11 +1,11 @@
-package com.roynaldi19.bpai01_03likesapp
+package com.roynaldi19.dc4_01likesapp
 
 import android.graphics.*
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.core.content.res.ResourcesCompat
-import com.roynaldi19.bpai01_03likesapp.databinding.ActivityMainBinding
+import com.roynaldi19.dc4_01likesapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

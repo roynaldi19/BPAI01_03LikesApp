@@ -1,4 +1,4 @@
-package com.roynaldi19.bpai01_03likesapp
+package com.roynaldi19.dc4_01likesapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
