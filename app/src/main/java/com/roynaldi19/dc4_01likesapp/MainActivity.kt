@@ -8,7 +8,6 @@ import androidx.core.content.res.ResourcesCompat
 import com.roynaldi19.dc4_01likesapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-
     private lateinit var binding: ActivityMainBinding
 
     private val bitmap = Bitmap.createBitmap(1000, 1000, Bitmap.Config.ARGB_8888)
